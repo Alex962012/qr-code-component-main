@@ -8,11 +8,13 @@ body{
     margin: 0px;
     background-color: aqua;
     font-family: 'Outfit', sans-serif;
+    overflow: hidden;
 }
 .wrapper{
     margin: 0 auto;
     width: 1440px;
     height: 100vh;
+
     display: flex;
     align-items: center;
   justify-content: center 
